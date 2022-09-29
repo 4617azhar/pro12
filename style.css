@@ -1,0 +1,50 @@
+.container{
+    width: 814px;
+    height: 394px;
+    border: 1px solid red;
+    margin: 0 auto;
+}
+.col1{
+    width: 732px;
+    height: 23px;
+    background-color: orange;
+    /* float: left ; */
+    border: 1px solid black;
+    margin: 24px;
+    padding: 14px;
+}
+
+.col2{
+    width: 732px;
+    height: 78px;
+    background-color: green;
+    border: 1px solid red;
+    margin: 24px;
+    padding: 14px;
+
+}
+
+.col3{
+    width: 732px;
+    height: 23px;
+    background-color: blue;
+    /* float: left ; */
+    border: 1px solid black;
+    margin: 24px;
+    padding: 14px;
+}
+
+.col4{
+    width: 732px;
+    height: 23px;
+    background-color: rgb(255, 0, 149);
+    /* float: left ; */
+    border: 1px solid black;
+    margin: 24px;
+    padding: 14px;
+}
+body{
+    background-image: url(light2.webp); 
+    background-size: cover;
+    
+}
